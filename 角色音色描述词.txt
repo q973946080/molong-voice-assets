@@ -1,0 +1,78 @@
+《废物契约兽？那是灭世魔龙！》前10集角色音色描述词（ElevenLabs Voice Design / 豆包 / 即梦 通用）
+================================================================================
+
+用法：英文描述词 → 贴进 ElevenLabs "Voice Design"（免费档可生成并下载基准音色）；
+中文描述词 → 贴进豆包音频/即梦/腾讯智影的音色生成或克隆描述框。
+基准音色到手后，批量念台词用该音色克隆/复用，全剧不换人。
+
+────────────────────────────────────────────────────────────────
+1. Aria（女主·20岁）
+────────────────────────────────────────────────────────────────
+【EN】A confident 20-year-old European woman, mid-pitched voice with a slight husky rasp from years of shouting and street fights. Estuary English accent that shifts between polished upper-class RP and sharp working-class London slang. Sarcastic, quick-witted, sharp-tongued delivery with rising mocking endings; drops low and hard when threatening; bright and gleeful when money is involved; softens at the tail of lines aimed at her pet. Fast-paced, strong projection, never whiny.
+【中文】20岁欧洲女性，御姐音，中低音带轻微烟嗓颗粒；河口英语口音，能在上流英音与市井伦敦腔之间切换；语速快、语气嚣张戏谑、尾音上扬挑衅，威胁时压低砸实，财迷时高扬开怀，对宠物说话时尾音变软。
+
+────────────────────────────────────────────────────────────────
+2. Lucian·人形态（深渊魔王·26岁外表）
+────────────────────────────────────────────────────────────────
+【EN】A 26-year-old man with an ancient, regal presence; deep baritone with heavy chest resonance, cold smooth velvet texture. Archaic RP English with Shakespearian gravity — older and more formal than any mortal class. Speaks slowly, words like edicts, with long deliberate pauses; ice-flat and emotionless when killing; a low warm amused undertone only when speaking to her. Unbothered, never shouts, slightly otherworldly.
+【中文】26岁外表欧洲男性，深渊王者；低音炮男中音、胸腔共鸣厚实、冷冽丝滑；古英语贵族腔（比任何人类阶层更古老庄重）；语速慢、字字如诏、停顿长；杀意时毫无感情，只对女主有低沉宠溺的轻笑；从不吼叫。
+
+────────────────────────────────────────────────────────────────
+3. Lucian·半龙形态（暴怒护短）
+────────────────────────────────────────────────────────────────
+【EN】Same deep baritone as the demon king's human form, but lower, rougher, with bestial growl and breathy power; thunderous low rumble when angered; every word heavy with pressure, very slow, with long pauses between phrases.
+【中文】人形基础上更低沉更粗粝，叠加兽性低吼与气浪质感；愤怒时如闷雷滚动，每字都带威压，停顿极长。
+
+────────────────────────────────────────────────────────────────
+4. Lucian·毛球形态（萌宠）
+────────────────────────────────────────────────────────────────
+【EN】A tiny round creature's squeaky chirp: high-pitched, soft, round and bouncy, short bursts ("squeak squeak"); harmless and adorable; in battle shifts to a low raspy growl.
+【中文】圆滚滚小生物的软萌吱吱声：高亢圆润、气泡感、短促两声；战斗时切换为低沉沙哑的撕裂低吼。
+
+────────────────────────────────────────────────────────────────
+5. Edward（帝国皇子·21岁·反派）
+────────────────────────────────────────────────────────────────
+【EN】A 21-year-old European royal, pompous RP English — the most polished accent in the cast. Reedy tenor with nasal resonance, shrill and affected; habitually issues commands and refers to himself as "this prince"; over-performs every line with excessive force; voice cracks when furious; collapses from regal authority into hysterical tearful pleading when broken.
+【中文】21岁欧洲男性皇室，装腔作势的标准王室英音（全剧发音最讲究）；青年男声偏高、鼻腔共鸣、尖亮；习惯命令式口吻自称"本皇子"，每句话都用力过猛；愤怒时破音，崩溃时从王室腔崩塌成歇斯底里哭腔。
+
+────────────────────────────────────────────────────────────────
+6. 名媛B（贵族名媛·19岁）
+────────────────────────────────────────────────────────────────
+【EN】A 19-year-old upper-class socialite, exaggerated aristocratic RP drawl with long vowels and fake high energy. Bright thin soprano, cloying sweet tone; laughs behind her hand; delivers catty, euphemistic mockery with smug pauses; shrieks and completely loses composure when terrified.
+【中文】19岁欧洲上层名媛，浮夸上流腔（拖长元音、假兴奋）；细亮高音、甜腻装腔；掩嘴笑、阴阳怪气带得意停顿；惊恐时尖声哭喊、社交面具碎裂。
+
+────────────────────────────────────────────────────────────────
+7. 贵族小弟A（跟班·20岁）
+────────────────────────────────────────────────────────────────
+【EN】A 20-year-old minor noble's hanger-on with a half-learned RP accent that slips into commoner vowels. Thin eager tenor, loud and breathless; sycophantic and nervous when addressing royalty; contemptuous high pitch when shouting at those below him; always sounds like he's trying to impress someone.
+【中文】20岁欧洲男性贵族末席，半吊子贵族腔（元音经常露馅）；青年高亢咋呼、上气不接下气；对皇子谄媚紧张、对地位低的人高声鄙夷；永远像在讨好谁。
+
+────────────────────────────────────────────────────────────────
+8. 刀疤头目（黑市地头蛇·38岁）
+────────────────────────────────────────────────────────────────
+【EN】A 38-year-old underworld thug from London's East End: Cockney accent with glottal stops and street slang. Heavy smoker's voice — gravelly, deep, with thickened vocal cords; lazy, drawled threats delivered slowly because he's certain he'll win; breaks into panicked shrieks when suddenly defeated.
+【中文】38岁欧洲男性黑市头目，伦敦东区腔（吞音、喉塞音、街头俚语）；重度烟嗓、喉音重、声带粗粝；慢条斯理拖着威胁（笃定吃定你）；被反杀时破音惊叫。
+
+────────────────────────────────────────────────────────────────
+9. 皇家暗杀小队队长（军人·33岁）
+────────────────────────────────────────────────────────────────
+【EN】A 33-year-old military officer, regimental RP with clipped officer's bark. Flat, low monotone, completely emotionless, robotic even pacing; speaks in short tactical commands (target, execute, open fire); never wastes a word; a slight tremor leaks through when genuinely terrified.
+【中文】33岁欧洲男性军官，军事化英音（军官式短促爆破）；低沉平直、毫无感情、机械匀速；只说短促战术命令（目标/执行/开火）；真正恐惧时声音会漏出轻微颤抖。
+
+────────────────────────────────────────────────────────────────
+10. 黑衣刺客首领（地下杀手·30岁）
+────────────────────────────────────────────────────────────────
+【EN】A 30-year-old assassin with Slavic-accented English — hard consonants, lightly rolled r's. Raspy neutral tone, whispery and clipped, speaks in short sentences as if constantly suppressing sound; cold, detached, blade-like precision; slight mechanical texture as if the voice is magically disguised.
+【中文】30岁男性刺客，斯拉夫口音英语（辅音硬、r带弹舌）；沙哑中性、气声贴耳、短句急停，像永远在压着声音；冷如刀刃；带魔法伪装的机械电子质感。
+
+────────────────────────────────────────────────────────────────
+11. 拍卖行行长（资本老狐狸·60岁）
+────────────────────────────────────────────────────────────────
+【EN】A 60-year-old old-money banker from the City of London, conservative oily RP. Smooth elderly baritone, refined and diplomatic; weighs every word, speaks slowly and steadily; obsequious with titles and rising polite endings when serving a valued client; crisp and precise on numbers; cold and hard when threatening; trembles slightly when afraid.
+【中文】60岁欧洲男性，伦敦金融城老钱腔（保守圆滑英音）；老年男中音、圆滑斯文、字斟句酌、慢而稳；奉承大客户时尊称拉满、尾音上扬讨好；报价时数字清晰；翻脸威胁时冷硬；惊恐时微微颤抖。
+
+────────────────────────────────────────────────────────────────
+使用建议：
+1. ElevenLabs：Voice Design 里整段粘贴【EN】，一次生成一个角色音色，免费档额度内把11个基准音色都生成并下载（生成后保存，之后用它们批量念台词）。
+2. 豆包/即梦：粘贴【中文】到音色生成/克隆描述，或直接上传现有样音克隆。
+3. 全剧铁律：口音是阶层身份证——Edward 的 RP 最标准、刀疤的 Cockney 最粗、Lucian 用古语腔；同一角色全剧只认一套音色，不换人。
